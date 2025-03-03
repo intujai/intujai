@@ -3,7 +3,7 @@
 title: 
 date: 2022-10-24
 type: landing
-
+sections:
 - block: hero
     content:
       title: |
@@ -16,17 +16,4 @@ type: landing
         SEMBRANDO ILUSIONES, CULTIVANDO PASIONES. La semilla de INTUJAI TEATRO comienza a germinar en la primavera de 2006. BEATRIZ LARRAÑAGA y MAY GOROSTIAGA suman sus energías para dar forma a este proyecto que florece cuatro años después. INTUJAI TEATRO cultiva todo tipo de campos, con el único objetivo de sembrar, polinizar y hacer florecer vida a través de la Naturaleza del Teatro.
     design:
         columns: '1'
-
-  
-
-sections:
-
-  - type: text
-    title: "Intujai Teatro"
-    content:    "<br>
- 
-
-  - type: image
-    src: ""
-    alt: "logo intujai"
 ---
