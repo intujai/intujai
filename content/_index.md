@@ -16,24 +16,15 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-      
-  - block: markdown
+  - block: image
     content:
-      title:
-      subtitle: ''
-      text: 
+      src: "https://github.com/intujai/intujai/blob/main/assets/media/intujai-logo.png"
+      alt: "intujai-logo"
     design:
       columns: '1'
-      background:
-        image: 
-          filename: intujai-logo.png
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
-
+      css_class: fullscreen
 
   - block: collection
     content:
