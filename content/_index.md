@@ -54,5 +54,5 @@ sections:
       page_type: post
     design:
       view: card
-      columns: '1
+      columns: '1'
 ---
