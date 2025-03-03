@@ -5,16 +5,53 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown
     content:
-      title: |
-        Intujai Teatro
-      image:
-        filename: intujai-logo.png
-      text: |
-        <br>
-        SEMBRANDO ILUSIONES, CULTIVANDO PASIONES. La semilla de INTUJAI TEATRO comienza a germinar en la primavera de 2006. BEATRIZ LARRAÑAGA y MAY GOROSTIAGA suman sus energías para dar forma a este proyecto que florece cuatro años después. INTUJAI TEATRO cultiva todo tipo de campos, con el único objetivo de sembrar, polinizar y hacer florecer vida a través de la Naturaleza del Teatro.
+      title:
+      subtitle: ''
+      text: SEMBRANDO ILUSIONES, CULTIVANDO PASIONES. La semilla de INTUJAI TEATRO comienza a germinar en la primavera de 2006. BEATRIZ LARRAÑAGA y MAY GOROSTIAGA suman sus energías para dar forma a este proyecto que florece cuatro años después. INTUJAI TEATRO cultiva todo tipo de campos, con el único objetivo de sembrar, polinizar y hacer florecer vida a través de la Naturaleza del Teatro.
     design:
-        columns: '1'
-        
+      columns: '1'
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text: 
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: intujai-logo.png
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen    
+
+
+  - block: collection
+    content:
+      title: Latest News
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: post
+    design:
+      view: card
+      columns: '1
 ---
