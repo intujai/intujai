@@ -13,10 +13,10 @@ sections:
       email: intujai@gmail.com 
       phone: 678990162-647201401
       address:
-        street: Gudari Kalea, 16,
+        street: Gudari Kalea 16
         city: Tolosa
         region:  Gipuzkoa
-        postcode: '20400', 
+        postcode: '20400'
       coordinates:
         latitude: '43.13383603446349'
         longitude: '-2.075984303779376'
